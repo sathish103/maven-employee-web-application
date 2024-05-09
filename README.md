@@ -1,4 +1,4 @@
-[![Build Status](http://54.209.111.225:8080/buildStatus/icon?job=tomcat-deploy)](http://54.209.111.225:8080/job/tomcat-deploy/)
+[![Build Status](http://54.209.111.225:8080/buildStatus/icon?job=pull+request)](http://54.209.111.225:8080/job/pull%20request/)
 
 
 # Sample Maven Application: maven-employee-web-application..
