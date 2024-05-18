@@ -20,7 +20,7 @@
                 <nexus.host.url>http://3.84.235.78:8081</nexus.host.url>
                 <tomcat.host.url>http://3.109.186.189:8080</tomcat.host.url>
                 <sonar.host.url>http://54.146.75.255:9000</sonar.host.url>
-                <sonar.login>YOUR-TOKEN-GOES-HERE</sonar.login>
+                <sonar.login>squ_a51e032b56a829149f3c47ae514e2475a68ae505</sonar.login>
                 <!--
                 <sonar.login>USERNAME</sonar.login>
                 <sonar.password>PASSWORD</sonar.password> -->
